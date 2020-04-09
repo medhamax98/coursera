@@ -24,3 +24,15 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+.about-us{
+	margin: 0px auto;
+	padding: 0px 0px 50px 0px;
+}
+.history{
+	margin: 5px auto;
+	padding: 0px 0px 100px 8px;
+}
+.hexa{
+	margin: 5px auto;
+	padding: 0px 0px 0px 8px;
+}
