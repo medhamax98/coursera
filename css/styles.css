@@ -36,3 +36,11 @@ address{
 	margin: 5px auto;
 	padding: 0px 0px 0px 8px;
 }
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar {
+     background-color: #512DA8;
+}
