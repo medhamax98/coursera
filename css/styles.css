@@ -42,5 +42,28 @@ body{
 }
 
 .navbar {
-     background-color: #512DA8;
+    background-color: #512DA8;
+}
+
+input[type="radio"]{
+  margin: 0px 0px 0px 10px;
+}
+.row-card{
+	height: 200px;
+	padding: 0px 10px 0px 10px;
+}
+
+.too{
+	margin-top: 15px;
+	margin-bottom: 20px;	
+}
+.hoo{
+	padding: 0px 0px 20px 0px;
+}
+
+.tab-content{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
 }
